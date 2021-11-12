@@ -1,131 +1,127 @@
-# Contributor Covenant Code of Conduct
+# Code of conduct
 
-## Our Pledge
+## Be excellent to each other
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+Please treat each other, as well as the public, in an excellent way. What it
+means to "be excellent" is the following:
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+- **Be radically inclusive** to existing members and newcomers looking to learn
+  or participate
+- **Be totally respectful** of each others abilities, interests, and personal differences
+- **Be exceedingly kind** even in moments of disagreement while working towards consensus
+- **Educate and illuminate** others with something you  know more about
+- **Be open to feedback** from others in the community, be it technical skill or
+  interpersonally
 
-## Our Standards
+These traits exemplify the type of community we strive for with Open Source
+Design. We want a diverse community where members treat each other excellently,
+at all times.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+We want Open Source Design to be diverse because we A) believe in equality and B)
+know that diversity leads to healthier culture, which outputs better creativity.
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the overall
-  community
+## Don't be a mean or a not nice person
 
-Examples of unacceptable behavior include:
+The following are behaviors that are known to exclude and make other
+demographics of people feel unwelcome. Please do not do the following.
 
-- The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- **Don't be offensive**
 
-## Enforcement Responsibilities
+If you think you are offending someone for whatever reason, STOP immediately.
+Asking for guidance will show good faith that you are striving to uphold this
+code of conduct.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+- **Don't discriminate against anyone**
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Please be especially sensitive and aware of others who are different from you.
+Don't make jokes, offhand comments, or name your projects in ways that can be
+offensive relating to, but not limited to, the following topics
 
-## Scope
+- Age
+- Culture
+- Ethnicity
+- Gender identity & expression
+- Nationality
+- Physical disabilities or differences
+- Mental disabilities or differences
+- Politics
+- Race
+- Religion
+- Sex
+- Sexual orientation
+- Socio-economic status
+- Subcultural affiliation
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Discriminatory comments or naming of projects that relate to any of the above
+topics are the most common forms of abuse. Thus we consider violations relating
+to these topics to be severe violations of our code of conduct.
 
-## Enforcement
+- **Don't sexualize your work**
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at [INSERT CONTACT
-METHOD]. All complaints will be reviewed and investigated promptly and fairly.
+This is another tricky point as some people see no harm in naming a code
+libraries things like `bikini.js` or `crotchlessChaps.js` or `fat-man.rb` or
+leaving comments in their code like `A sexy ass variadic function`. These little
+things may seem harmless, but can make others of different orientations,
+ideologies, or life experiences feel very uncomfortable. It is best to avoid
+such things as:
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+- Don't use overtly sexual usernames, or project names
+- Don't refer to others in a sexualized way
+- Refrain from comments with sexual undertones and metaphors
 
-## Enforcement Guidelines
+- **Don't make unwelcome sexual advances**
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Most of our community are adults and should know when it's ok to flirt with
+other adults. However, we're also an online community whereby many people don't
+know each other in real life. Many of us come from different cultures. What
+might be seen as lighthearted flirting in one culture, might be extremely
+offensive to another culture. This discomfort causes people to not participate
+in communities. Therefore it's best to not do it. Open Source Design is a
+community about bringing great design to open source software, let's keep it
+focused on that.
 
-### 1. Correction
+## Where this CoC is upheld
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+This code of conduct especially pertains to our online community platforms
+(GitHub: [@opensourcedesign](https://github.com/opensourcedesign), Twitter:
+[@opensrcdesign](https://twitter.com/opensrcdesign), Discourse Forum:
+[discourse.opensourcedesign.net](https://discourse.opensourcedesign.net)) as
+well as our offline events like the FOSDEM Open Source Design room, the FOSSASIA
+Design track, the Open Source Design Summit and local meetups. But it also
+pertains to your personal public communications and views.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+Being a respectful contributor to Open Source Design by day and a ragging
+(or even mild) neo-nazi by night is still grounds for expulsion. Some people
+see this as impinging on personal freedoms, we disagree, sorry.
 
-### 2. Warning
+## Consequences for violations
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+If a participant engages in behavior violating this code of conduct, the core
+members of this community may take any action they deem appropriate. Actions may
+range from a simple warning to the most drastic: expulsion from the community,
+exclusion from any interaction, and loss of all rights in the community.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+## Reporting violations
 
-### 3. Temporary Ban
+If you are aware of a violation of our code of conduct, please let me know by
+sending an e-email to hansmbua.hm@gmail.com
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+## Decisions about consequences
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+Decisions about consequences of violating this code of conduct are made by the
+repo's owner and will not be discussed with the
+person responsible for the violation until a decision has been reached.
 
-### 4. Permanent Ban
+## Additions, amendments, and feedback
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+It is foreseeable that this code of conduct will need additions and to be
+improved upon. Online culture changes, new views and sensitivities emerge which
+need to be taken into account. In order to add or modify our Code of Conduct,
+please fork and send a pull request or open an issue with your proposed changes.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+### Credits
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder][mozilla coc].
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][faq]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[mozilla coc]: https://github.com/mozilla/diversity
-[faq]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+This Code of Conduct was based on the Ada Initiative's
+[HOWTO design a code of conduct](//adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+for your community, as well as CoCs from the [Hoodie](http://hood.ie/code-of-conduct/)
+and [Django](https://www.djangoproject.com/conduct/) projects.
