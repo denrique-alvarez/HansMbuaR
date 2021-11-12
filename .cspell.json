@@ -1,6 +1,15 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "adainitiative",
+    "FOSDEM",
+    "FOSSASIA",
+    "Gilli",
+    "HOWTO",
+    "jancborchardt",
+    "Kriesse",
+    "opensourcedesign"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
