@@ -144,7 +144,7 @@ to a higher education institution in Antwerp.
 
 <!-- New learnings about your partner to use in your design -->
 
-- Hans is a father and also has to make time for his family.
+- Hans loves science. He studied math as a major and computer science on the side.
 
 - Working remotely for a Belgian company could make his life way easier since
   he is now working for a company in a different country and time zone.
@@ -164,6 +164,18 @@ to a higher education institution in Antwerp.
     - Unexpectedly, in their world, _?_.
 -->
 
+As mentioned before, finding a job in Belgium, where he currently lives, would
+make his life easier in general, but it would also create more opportunities by
+giving Hans the chance to keep learning and exploring his passion: the tech-world.
+
+He wants to be represented as an ambitious and hard-working person who enjoys
+learning and discovering new things.
+
+He wants to attract mostly recruiters and employers who believe in his potential
+to grow and current skill-set.
+
+Hans needs to convey a powerful message about his personality and experience
+that represents his potential and desire to work.
 
 ---
 
